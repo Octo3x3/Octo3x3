@@ -24,6 +24,17 @@ de los 11 todavía está en desarrollo.
 
 👉 [Ver el laboratorio y su bitácora pública](https://github.com/Octo3x3/human-supervised-agentic-systems-lab)
 
+### OpenClaw Agent Migration Lab
+
+Laboratorio para documentar y validar la migración de Lumen y KAIRON a una
+estación de trabajo privada basada en OpenClaw, con continuidad verificable,
+recuperación y supervisión humana.
+
+El proyecto ya dispone de documentación pública y privada separada. OpenClaw
+todavía no está instalado y ningún agente ha sido promovido en el nuevo equipo.
+
+👉 [Ver OpenClaw Agent Migration Lab](https://github.com/Octo3x3/openclaw-agent-migration-lab)
+
 ### CodexDJ
 
 Laboratorio local para analizar una biblioteca musical y preparar sugerencias
