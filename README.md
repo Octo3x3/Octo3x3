@@ -24,6 +24,19 @@ de los 11 todavía está en desarrollo.
 
 👉 [Ver el laboratorio y su bitácora pública](https://github.com/Octo3x3/human-supervised-agentic-systems-lab)
 
+### Agentic Enterprise Lab
+
+Escaparate visual del futuro sistema de trabajo: departamentos especializados,
+colas dinámicas, dependencias visibles, modelos locales y nube autorizada,
+resultados revisables y decisiones humanas.
+
+Incluye el organigrama de los 11 agentes actuales, el papel de Harmony como
+sistema de gobernanza —no como agente— y SHADOWAI como futuro agente de
+salvaguarda para recuperaciones extremas. El ERP y las interfaces continúan en
+desarrollo.
+
+👉 [Ver Agentic Enterprise Lab](https://github.com/Octo3x3/agentic-enterprise-lab)
+
 ### OpenClaw Agent Migration Lab
 
 Laboratorio para documentar y validar la migración de Lumen y KAIRON a una
