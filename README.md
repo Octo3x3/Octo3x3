@@ -22,6 +22,11 @@ El sistema cuenta con 11 agentes inventariados y ya ha producido interacciones,
 revisiones y aprendizajes entre varios departamentos. La coordinación completa
 de los 11 todavía está en desarrollo.
 
+La baseline de construcción y auditoría previa al Punto Cero está cerrada en
+un alcance local y acotado. Se documentaron 16 hallazgos corregidos, una suite
+global final sin fallos y los límites que todavía deben validarse con tareas
+reales. No lo presento como producto terminado ni preparado para producción.
+
 👉 [Ver el laboratorio y su bitácora pública](https://github.com/Octo3x3/human-supervised-agentic-systems-lab)
 
 ### Agentic Enterprise Lab
@@ -43,8 +48,11 @@ Laboratorio para documentar y validar la migración de Lumen y KAIRON a una
 estación de trabajo privada basada en OpenClaw, con continuidad verificable,
 recuperación y supervisión humana.
 
-El proyecto ya dispone de documentación pública y privada separada. OpenClaw
-todavía no está instalado y ningún agente ha sido promovido en el nuevo equipo.
+OpenClaw está instalado en un Dell cifrado y el laboratorio dispone de una
+Tríada local con historial, selector, voz y dictado manual. LumenD y KAIRON-Dell
+permanecen como réplicas dormidas, acotadas y sin autoridad; la continuidad total
+y la equivalencia de runtime no están demostradas. La auditoría específica del
+nodo y el chat continúa pendiente.
 
 👉 [Ver OpenClaw Agent Migration Lab](https://github.com/Octo3x3/openclaw-agent-migration-lab)
 
