@@ -22,10 +22,12 @@ El sistema cuenta con 11 agentes inventariados y ya ha producido interacciones,
 revisiones y aprendizajes entre varios departamentos. La coordinación completa
 de los 11 todavía está en desarrollo.
 
-La baseline de construcción y auditoría previa al Punto Cero está cerrada en
-un alcance local y acotado. Se documentaron 16 hallazgos corregidos, una suite
-global final sin fallos y los límites que todavía deben validarse con tareas
-reales. No lo presento como producto terminado ni preparado para producción.
+La baseline histórica de construcción y auditoría previa al Punto Cero quedó
+cerrada en alcance local y acotado. Después he seguido preparando el piloto:
+el último sucesor superó 94 pruebas relacionadas y 22 escenarios de revisión
+separados, sin invocar modelos en ese bloque. Siguen pendientes controles de
+integración y la ejecución viva con ese lanzador. No lo presento como producto
+terminado ni preparado para producción.
 
 👉 [Ver el laboratorio y su bitácora pública](https://github.com/Octo3x3/human-supervised-agentic-systems-lab)
 
